@@ -16,11 +16,6 @@ HiveMind offers access to a digital community of mental health advocates where t
 - [Contribute](#contribute)
 - [Questions](#questions)
 
-## Technologies Used
-- HTML, CSS, JS 
-- Express.js, MySQL, ORM (sequelize)
-- jQuery, Bootstrap, Animate.js, Darkmode.js
-
 ## Installation
 
 Clone this repository, install Node and then run install to install all dependencies.
@@ -69,12 +64,12 @@ Email: navraj777@hotmail.com
 
 Github: https://github.com/gammahazard
 
-![HiveMind Homepage](/Develop/assets/hivemind-homepage.png)
+![HiveMind Homepage](./assets/hivemind-homepage.png)
 
-![HiveMind Login Page](/Develop/assets/hivemind-login.png)
+![HiveMind Login Page](./assets/hivemind-login.png)
 
-![HiveMind Landing Page Darkmode](/Develop/assets/hivemind-landing.png)
+![HiveMind Landing Page Darkmode](./assets/hivemind-landing.png)
 
-![HiveMind Landing Page Lightmode](/Develop/assets/hivemind-landing-lightmode.png)
+![HiveMind Landing Page Lightmode](./assets/hivemind-landing-lightmode.png)
 
-![HiveMind Account Page](/Develop/assets/hivemind-account.png)
+![HiveMind Account Page](./assets/hivemind-account.png)
