@@ -59,15 +59,20 @@
     padding: 5em 2em;
   }
   .login-signup article {
-    padding: 1em;
+    /* padding: 1em; */
     row-gap: 0;
     flex: 1 1 100%;
   }
   .login-signup form {
     padding: 0;
-    row-gap: 0;
+  }
+  form {
+    row-gap: 0.5em;
   }
   .login-signup input {
     width: 60vw;
+  }
+  .login-signup article {
+    padding: 0.5em;
   }
 }
